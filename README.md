@@ -1,3 +1,5 @@
+# SISTEM DETEKSI MANUSI MENGGUNAKAN YOLOV8
+
 ## Dataset yang digunakan
 
 Mengumpulkan dan mengimpor lebih dari 500 gambar untuk Dataset Deteksi Manusia dari Kaggle dan sumber-sumber lainnya. Dataset ini kemudian dianotasi dengan kotak pembatas dan dipublikasikan di Roboflow. Kami hanya menggunakan satu label kelas: "orang".
@@ -27,3 +29,5 @@ Berikut adalah hasil pelatihan model YOLOv8 yang dilatih dengan CUDA versi 12.1.
 
 ### Contoh hasil pengujian model pada sebuah foto:
 ![GAMBAR](https://github.com/C241-PS261-LuminaSense/.github/blob/be5e91f47077610f77bccb3205489e4bf23aa1a3/assets/image3.jpg)
+
+## Dosen Pengampu: ridwan_dwiirawan@udb.ac.id
