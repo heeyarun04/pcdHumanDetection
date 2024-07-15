@@ -1,4 +1,6 @@
-# SISTEM DETEKSI MANUSI MENGGUNAKAN YOLOV8
+# SISTEM DETEKSI MANUSIA MENGGUNAKAN YOLOV8
+
+Sistem deteksi manusia ini dibuat sebagai bagian dari tugas akhir untuk mata kuliah Pengolahan Citra Digital. Tujuan dari proyek ini adalah untuk mengembangkan dan mengimplementasikan model deteksi manusia yang efisien dan akurat menggunakan algoritma YOLOv8 dalam berbagai kebtuhan pengawasan yang akurat, misal pada lingkungan kantor. 
 
 ## Dataset yang digunakan
 
